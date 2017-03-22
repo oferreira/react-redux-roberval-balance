@@ -1,0 +1,22 @@
+.items {
+    display: flex;
+    flex-flow: row wrap;
+    margin: 20px auto;
+    padding: 0 15vw;
+    justify-content: center;
+}
+
+.input.count {
+    width: 40px;
+}
+
+.controls {
+    width: 35vw;
+    display: flex;
+    justify-content: space-around;
+    margin: 0 auto;
+}
+
+.error {
+    color: #F55064;
+}
